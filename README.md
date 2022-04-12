@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rakibul Shezan</h1>
 <h3 align="center">I am a software engineer from Bangladesh who works with JavaScript Frameworks - React, Node JS</h3>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
+<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulshezan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulshezan" /> </p> -->
