@@ -32,7 +32,7 @@
 
 [![Shezan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rakibulshezan&&theme=xcode)](https://github.com/rakibulshezan)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rakibulshezan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulshezan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rakibulshezan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulshezan&show_icons=true&locale=en&theme=tokyonight" alt="rakibulshezan" /></p>
 
