@@ -3,7 +3,7 @@
   <img  src="https://c.tenor.com/z-c2pw8vhRIAAAAd/lucy-computer.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Rakibul Shezan</h1>
-<h3 align="center">I am a software engineer from Bangladesh who works with JavaScript Frameworks - React, Node JS</h3>
+<h3 align="center">I am a software engineer from Bangladesh who is currently working with JavaScript Frameworks - React, Node JS</h3>
 
 <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
 
